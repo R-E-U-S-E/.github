@@ -1,4 +1,4 @@
-# R.E.U.S.E - Recuperação Estratégica em Áreas Urbanas e Suporte em Enchentes
+# R.E.U.S.E
 
 O **R.E.U.S.E** é uma plataforma digital voltada para a mitigação de danos causados por desastres naturais no município de Quixadá-CE. O foco principal é conectar de forma segura e eficiente doadores de bens materiais e pessoas afetadas por inundações.
 
